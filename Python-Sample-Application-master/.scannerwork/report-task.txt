@@ -1,0 +1,6 @@
+projectKey=HolaMundo
+serverUrl=http://localhost:10000
+serverVersion=7.9.1.27448
+dashboardUrl=http://localhost:10000/dashboard?id=HolaMundo
+ceTaskId=AW2JYwbUvkaVGBXSGp1u
+ceTaskUrl=http://localhost:10000/api/ce/task?id=AW2JYwbUvkaVGBXSGp1u
